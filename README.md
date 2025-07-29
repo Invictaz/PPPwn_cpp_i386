@@ -1,6 +1,6 @@
 # PPPwn c++
 
-This is the C++ rewrite of [PPPwn](https://github.com/TheOfficialFloW/PPPwn)
+This is the C++ rewrite of [PPPwn](https://github.com/TheOfficialFloW/PPPwn) and is compiled by me for i386 machines
 
 # Features
 
